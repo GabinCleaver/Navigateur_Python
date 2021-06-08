@@ -4,6 +4,7 @@
 __Dépendences :__
 
 ```pip install webbrowser```
+```pip install google```
 
 A vous de le compléter selon vos envies !
 
